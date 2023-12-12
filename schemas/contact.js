@@ -17,6 +17,11 @@ export default {
             name:'message',
             title:'Message',
             type:'text'
-        }
+        },
+        {
+            name: 'websiteLink',
+            title: 'Website Link',
+            type: 'string',
+          },
     ]
 }
